@@ -1,0 +1,9 @@
+.hero{
+    background-image: url(images/02-Take.png);
+   background-position: center;
+    background-size: cover !important;
+}
+.pera{
+    top:50%;
+    transform: translateY(-50%);
+}
