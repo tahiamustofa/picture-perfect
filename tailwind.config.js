@@ -7,9 +7,9 @@ module.exports = {
     plugins: [],
   }
 
-  tailwind.config = {
-    darkMode: 'class',
-    theme: {
-      extend: {}
-    }
-  }
+  // tailwind.config = {
+  //   darkMode: 'class',
+  //   theme: {
+  //     extend: {}
+  //   }
+  // }
